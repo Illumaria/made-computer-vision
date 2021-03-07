@@ -15,8 +15,8 @@ In those cases when *nbviewer* fails to find a notebook whereas GitHub finds it 
 
 ### Lectures
 
-Legend: ![](./icons/pdf.png) — slides, ![](./icons/jupyter.png) — code, ![](./icons/youtube.png) — video.
+Legend: ![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/pdf.png) — slides, ![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/jupyter.png) — code, ![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/youtube.png) — video.
 
 Week | What | Where | When
 :--: | :--: | :---: | :--:
-[1](https://data.mail.ru/curriculum/program/lesson/16106/) | Определение CV, история развития, основные задачи, представление изображений (оптика, кодирование), аугментация (яркость, контраст, гамма-коррекция, оттенок, насыщенность, зашумление, размытие, аффинные преобразования). | [![](./icons/pdf.png)](https://github.com/Illumaria/made-computer-vision/blob/master/01-intro-augmentation/01_intro_augmentation.pdf) [![](./icons/jupyter.png)](https://nbviewer.jupyter.org/github/Illumaria/made-computer-vision/blob/master/01-intro-augmentation/01_intro_augmentation.ipynb?flush_cache=false) [![](./icons/youtube.png)](https://youtu.be/zzeydhLW3z8) | 04.03.2021
+[1](https://data.mail.ru/curriculum/program/lesson/16106/) | Определение CV, история развития, основные задачи, представление изображений (оптика, кодирование), аугментация (яркость, контраст, гамма-коррекция, оттенок, насыщенность, зашумление, размытие, аффинные преобразования). | [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/pdf.png)](https://github.com/Illumaria/made-computer-vision/blob/master/01-intro-augmentation/01_intro_augmentation.pdf) [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/jupyter.png)](https://nbviewer.jupyter.org/github/Illumaria/made-computer-vision/blob/master/01-intro-augmentation/01_intro_augmentation.ipynb?flush_cache=false) [![](https://github.com/Illumaria/made-deep-learning/blob/master/icons/youtube.png)](https://youtu.be/zzeydhLW3z8) | 04.03.2021
